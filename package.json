@@ -1,14 +1,14 @@
 {
-  "name": "sigma-md",
+  "name": "shallinosky-V3",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+  "description": "A CRAZY WHATSAPP BOT BY shalli-nosky",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
       "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-      "stop": "pm2 stop SIGMA-MD"
+      "stop": "pm2 stop Shallinosky-V3"
   },
-  "author": "Maher-Zubair",
+  "author": " 𝖘𝖍𝖆𝖑𝖑𝖎-𝖓𝖔𝖘𝖐𝖞",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
