@@ -1,16 +1,16 @@
 
-<h1 align="center"> sɪɢᴍᴀ-ᴍᴅ </h1>
+<h1 align="center">SHALLINOSKY-V2</h1>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+    <img alt=Support height="350" src="https://imgur.com/a/zqfBkdX"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SHALLI+NOSKY;RELEASED+DATE+1%2F10%2F2024." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair">
+  <a href="https://github.com/shallinosky5/Shallinosky-v2">
     <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
    <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
@@ -43,7 +43,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
 
 ##
-***Why Choose SIGMA-MD, Must Check Bot Features And ChangeLog***
+***Why Choose SHALLINOSKY-V4, Must Check Bot Features And ChangeLog***
  <details close>
 <summary>𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎</summary>
    
@@ -64,7 +64,7 @@
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
 - *Fixed Download and AI*
-- ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
+- ***SHALLINOSKY-V4 v1.5.3 Releases, 15 March,2024***
 - *Fixed `All Ai` Commands*
 - *Fixed `Spotify` Command*
 - *Fixed `All Anime` Commands*
@@ -161,19 +161,19 @@
 
 
 - ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
-- ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***The [SIGMA-MD](https://github.com/shallinosky5/Shallinosky-v2) is Made Under The [Apache-2.0 license](https://github.com/shallinosky5/Shallinosky-v2/blob/main/LICENSE).***
+- ***[Apache-2.0 license](https://github.com/shallinosky5/Shallinosky-v2/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***Everyone***
 - ***Who Helped Me***
 - ***Who Uses This Bot And Supports Me***
-- ***Support Me By Buying Me A [Coffee](https://buymeacoffee.com/Maher_Zubair)***
+- ***Support Me By FOLLOWING Me A [Coffee](https://whatsapp.com/channel/0029VaaShag4CrfjCj8wPz1E)***
 
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [SHALLINOSKY-V2](https://github.com/shallinosky5/Shallinosky-v2)***
